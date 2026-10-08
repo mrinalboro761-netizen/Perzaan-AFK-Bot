@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "Lifesteal-1663.aternos"
+    "port": 13832
+    "version": "1.26.3"
   },
   "position": {
     "enabled": true,
